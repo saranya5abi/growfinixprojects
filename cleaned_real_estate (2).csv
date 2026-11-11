@@ -1,0 +1,101 @@
+Property_ID,Location,Area_sqft,Bedrooms,Bathrooms,Property_Type,Year_Built,Price,Property_Size
+1,Erode,1302.0,1.0,2,Independent House,2023,4547465.0,Medium
+2,Salem,2179.0,4.0,1,Apartment,2004,7626372.0,Large
+3,Chennai,761.0,1.0,3,Villa,2012,8147518.0,Small
+4,Erode,801.0,1.0,3,Independent House,2003,2889658.0,Small
+5,Erode,2581.0,2.0,1,Villa,2015,9179038.0,Large
+6,Salem,1595.0,4.0,1,Apartment,2023,5830161.0,Medium
+7,Chennai,2917.0,4.0,3,Villa,2015,21498521.0,Large
+8,Chennai,1415.0,2.0,3,Villa,2022,9973666.0,Medium
+9,Erode,1882.0,3.0,2,Villa,2001,3264315.0,Medium
+10,Coimbatore,1875.0,1.0,3,Villa,2016,9528289.0,Medium
+11,Erode,1616.0,5.0,2,Apartment,2019,6460704.0,Medium
+12,Erode,2943.0,1.0,2,Villa,2023,11833002.0,Large
+13,Erode,937.0,3.0,2,Villa,2011,2842544.0,Small
+14,Erode,1478.0,3.0,2,Independent House,2017,5540855.0,Medium
+15,Salem,1676.0,1.0,2,Villa,2002,6796346.0,Medium
+16,Chennai,1391.0,2.0,1,Independent House,2000,9599808.0,Medium
+17,Salem,2864.0,2.0,3,Apartment,2000,13066663.0,Large
+18,Salem,1363.0,4.0,2,Apartment,2018,5759542.0,Medium
+19,Salem,2835.0,5.0,3,Apartment,2010,12486351.0,Large
+20,Erode,979.0,1.0,3,Apartment,2004,3803623.0,Small
+21,Coimbatore,1092.0,1.0,2,Independent House,2011,5412988.0,Medium
+22,Chennai,1780.0,3.0,1,Villa,2002,11313464.0,Medium
+23,Coimbatore,2662.0,2.0,2,Apartment,2000,10982023.0,Large
+24,Salem,664.0,5.0,1,Villa,2000,2573652.0,Small
+25,Salem,1967.0,4.0,3,Independent House,2007,8793033.0,Medium
+26,Coimbatore,1752.0,2.0,1,Independent House,2009,7048150.0,Medium
+27,Coimbatore,2627.0,4.0,1,Independent House,2010,11868761.0,Large
+28,Coimbatore,2095.0,3.0,1,Apartment,2011,8673002.0,Large
+29,Salem,1762.0,3.0,3,Villa,2012,7219912.0,Medium
+30,Salem,2122.0,1.0,3,Villa,2011,9412696.0,Large
+31,Chennai,991.0,5.0,1,Villa,2013,7176527.0,Small
+32,Chennai,2298.0,4.0,1,Independent House,2001,13757060.0,Large
+33,Salem,1018.0,2.0,2,Apartment,2018,4570039.0,Medium
+34,Coimbatore,2936.0,3.0,1,Independent House,2017,13576210.0,Large
+35,Coimbatore,978.0,1.0,2,Independent House,2002,4203243.0,Small
+36,Chennai,2396.0,1.0,1,Villa,2022,16546664.0,Large
+37,Salem,2878.0,4.0,2,Independent House,2016,11448685.0,Large
+38,Chennai,2688.0,3.0,3,Villa,2025,16832460.0,Large
+39,Chennai,2782.0,5.0,1,Apartment,2007,19195562.0,Large
+40,Erode,800.0,3.0,1,Villa,2025,2588928.0,Small
+41,Erode,2463.0,4.0,1,Apartment,2009,8181508.0,Large
+42,Erode,1379.0,4.0,1,Villa,2025,4731590.0,Medium
+43,Coimbatore,1102.0,3.0,2,Independent House,2001,4592553.0,Medium
+44,Salem,2351.0,4.0,1,Independent House,2018,9136556.0,Large
+45,Salem,1404.0,3.0,3,Apartment,2008,5736418.0,Medium
+46,Salem,2746.0,2.0,3,Apartment,2006,11778057.0,Large
+47,Salem,2495.0,3.0,1,Apartment,2003,10779981.0,Large
+48,Erode,2170.0,3.0,3,Villa,2025,8330478.0,Large
+49,Coimbatore,1560.0,4.0,1,Villa,2020,7534310.0,Medium
+50,Coimbatore,2085.0,4.0,1,Apartment,2017,9892081.0,Large
+51,Erode,1628.0,1.0,3,Independent House,2012,5249294.0,Medium
+52,Coimbatore,1102.0,1.0,1,Villa,2010,4810562.0,Medium
+53,Erode,997.0,2.0,3,Villa,2023,3466171.0,Small
+54,Salem,1470.0,1.0,2,Villa,2003,5144220.0,Medium
+55,Erode,992.0,3.0,1,Apartment,2024,3501550.0,Small
+56,Salem,806.0,4.0,2,Apartment,2020,3162424.0,Small
+57,Salem,1638.0,1.0,3,Apartment,2024,7145826.0,Medium
+58,Chennai,2481.0,1.0,2,Apartment,2003,18438560.0,Large
+59,Erode,2084.0,2.0,2,Apartment,2009,7416550.0,Large
+60,Chennai,1463.0,2.0,3,Independent House,2004,9003651.0,Medium
+61,Erode,1163.0,3.0,2,Independent House,2008,3512924.0,Medium
+62,Erode,1620.0,4.0,2,Apartment,2023,6392318.0,Medium
+63,Chennai,695.0,2.0,3,Villa,2002,5085507.0,Small
+64,Chennai,2523.0,1.0,2,Apartment,2016,15184249.0,Large
+65,Erode,2357.0,4.0,3,Independent House,2002,8733113.0,Large
+66,Coimbatore,2878.0,4.0,2,Independent House,2015,11301436.0,Large
+67,Salem,2278.0,1.0,3,Villa,2003,8199567.0,Large
+68,Chennai,1140.0,2.0,3,Independent House,2017,6780467.0,Medium
+69,Salem,1659.0,1.0,2,Apartment,2016,6226879.0,Medium
+70,Coimbatore,1783.0,4.0,2,Villa,2006,9216991.0,Medium
+71,Coimbatore,2322.0,5.0,2,Apartment,2023,11066301.0,Large
+72,Coimbatore,2419.0,5.0,1,Apartment,2022,10507344.0,Large
+73,Chennai,2197.0,3.0,1,Villa,2004,15296275.0,Large
+74,Coimbatore,1395.0,1.0,1,Apartment,2011,7059528.0,Medium
+75,Chennai,1651.0,1.0,3,Independent House,2016,12208269.0,Medium
+76,Coimbatore,2243.0,3.0,2,Apartment,2022,8754690.0,Large
+77,Salem,1963.0,3.0,3,Villa,2012,7603536.0,Medium
+78,Salem,2581.0,3.0,1,Villa,2022,9106045.0,Large
+79,Erode,1954.0,4.0,2,Villa,2024,6501824.0,Medium
+80,Salem,2263.0,1.0,3,Apartment,2002,8154983.0,Large
+81,Erode,2129.0,4.0,2,Villa,2008,7779772.0,Large
+82,Salem,2638.0,3.0,3,Villa,2016,10198302.0,Large
+83,Chennai,2096.0,1.0,2,Apartment,2016,12517982.0,Large
+84,Salem,2837.0,4.0,1,Independent House,2019,10551159.0,Large
+85,Erode,2008.0,4.0,1,Apartment,2015,6733552.0,Large
+86,Erode,2000.0,3.0,2,Villa,2024,6495895.0,Medium
+87,Coimbatore,1906.0,1.0,3,Villa,2021,8456684.0,Medium
+88,Chennai,1572.0,3.0,1,Apartment,2012,8784361.0,Medium
+89,Salem,2368.0,1.0,1,Independent House,2018,8846176.0,Large
+90,Coimbatore,1882.0,5.0,1,Villa,2016,8243403.0,Medium
+91,Salem,1309.0,2.0,2,Villa,2003,5397450.0,Medium
+92,Salem,2079.0,2.0,2,Villa,2011,7744585.0,Large
+93,Coimbatore,2034.0,2.0,3,Apartment,2008,8145763.0,Large
+94,Coimbatore,1248.0,3.0,3,Villa,2018,4901982.0,Medium
+95,Coimbatore,917.0,5.0,3,Independent House,2011,4671856.0,Small
+96,Coimbatore,1857.0,1.0,2,Villa,2008,8147518.0,Medium
+97,Coimbatore,1283.0,4.0,2,Villa,2006,5914078.0,Medium
+98,Salem,1263.0,1.0,3,Independent House,2013,5687304.0,Medium
+99,Coimbatore,2598.0,4.0,3,Villa,2019,10227574.0,Large
+100,Chennai,2231.0,1.0,2,Apartment,2018,16140147.0,Large

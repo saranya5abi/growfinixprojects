@@ -1,0 +1,4 @@
+Property_ID,Location,Area_sqft,Bedrooms,Bathrooms,Property_Type,Year_Built,Price,Property_Size
+7,Chennai,2917.0,4.0,3,Villa,2015,21498521.0,Large
+39,Chennai,2782.0,5.0,1,Apartment,2007,19195562.0,Large
+58,Chennai,2481.0,1.0,2,Apartment,2003,18438560.0,Large
